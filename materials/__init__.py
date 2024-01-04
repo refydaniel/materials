@@ -76,6 +76,9 @@ from . import mercury
 from . import silicon_carbide
 from . import silver
 from . import water
+from . import aluminium
+from . import Al6082
+from . import Al6060
 
 
 from .__about__ import (
